@@ -60,7 +60,8 @@ falta justificada: se registra en un contador paralelo. No modifica los contador
 
 ## Tecnologías
 
-Laravel, Flutter, MySQL
+Laravel, Flutter, MySQL (Versiones)
+Librerias? 
 
 ## Integrantes del equipo
 
