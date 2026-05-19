@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-Sistema digital que reemplaza, en parte, el registro físico de asistencia en planillas y hojas de papel. Permite a preceptores, profesores de taller y profesores de educación física registrar la asistencia diaria desde un dispositivo móvil (app), mientras que los roles administrativos y de supervisión acceden a una versión de escritorio para gestionar usuarios, cursos, alumnos, reportes y configuraciones del ciclo lectivo.
+Sistema digital que reemplaza, en parte, el registro físico de asistencia en planillas y hojas de papel. Permite a preceptores, profesores de taller y profesores de educación física registrar la asistencia diaria desde aplicación movil(app), mientras que los roles administrativos y de supervisión acceden a una versión de escritorio para gestionar usuarios, cursos, alumnos, reportes y configuraciones del ciclo lectivo.
 
 ## Alcance funcional
 
