@@ -4,6 +4,9 @@
 
 Sistema digital que reemplaza, en parte, el registro físico de asistencia en planillas y hojas de papel. Permite a preceptores, profesores de taller y profesores de educación física registrar la asistencia diaria desde aplicación movil(app), mientras que los roles administrativos y de supervisión acceden a una versión de escritorio para gestionar usuarios, cursos, alumnos, reportes y configuraciones del ciclo lectivo.
 
+## En la descripción solo debemos destacar las funcionalidad que nuestro sistema ofrece! 
+solo destacamos nuestro sistema y lo que puede brindar, DEJE EN EL README de LEO un ejemplo del objetivo!"****
+
 ## Alcance funcional
 
 - Registro de asistencia diaria (teóricas, taller y educación física) desde app móvil.
